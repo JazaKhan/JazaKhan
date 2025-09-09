@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 
 ### 🛠 Featured Projects
 
-- **FlashMasterAI**: An AI-powered flashcard app to enhance learning, built with Next.js, Prisma, and Stripe for smooth payment integration.
-- **WealthHealth**: A financial management app created in Java, focused on helping users plan and track their finances effectively.
+- **ARC'SHARE'YX**: A gear-sharing web app built at the youCode 24-hour hackathon to foster sustainability and community within the Arc'teryx outdoor network. Developed with React, Next.js, TypeScript, Tailwind CSS, and Firebase, featuring a custom credit system for lending and borrowing gear.
+- **Landing Page Portfolio**: A personal website designed to showcase skills and projects, built using React, Tailwind CSS, and Framer Motion for a responsive, animated user experience.
+- **WealthHealth**: A Java-based financial management app that helps users track income and expenses, with an emphasis on clean object-oriented design and data persistence.
+- **BookLog**: A Java application for tracking and saving reading history, featuring file persistence, modular structure, and a simple CLI interface for user interaction.
 
 ---
 
@@ -38,6 +40,8 @@ Here are some ideas to get you started:
 
 - **Languages**: Python, JavaScript, Java, HTML/CSS
 - **Frameworks & Libraries**: ReactJS, Tailwind CSS, NextJS, Prisma, Framer Motion
+- **Databases**: Firebase, MongoDB, PostgreSQL
+- **Tools**: Git, GitHub, Vercel, Figma, VS Code
 
 ---
 
