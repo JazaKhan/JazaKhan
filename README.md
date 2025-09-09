@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🧩 Tech Skills
 
 - **Languages**: Python, JavaScript, Java, HTML/CSS
-- **Frameworks & Libraries**: React, Tailwind CSS, Next.js, Prisma, Framer Motion
+- **Frameworks & Libraries**: ReactJS, Tailwind CSS, NextJS, Prisma, Framer Motion
 
 ---
 
