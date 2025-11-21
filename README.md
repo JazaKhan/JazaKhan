@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### 🧩 Tech Skills
 
-- **Languages**: Python, JavaScript, Java, HTML/CSS
+- **Languages**: Python, JavaScript, Java, HTML/CSS, C++
 - **Frameworks & Libraries**: ReactJS, Tailwind CSS, NextJS, Prisma, Framer Motion
 - **Databases**: Firebase, MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, Vercel, Figma, VS Code
