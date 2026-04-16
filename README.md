@@ -16,47 +16,55 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Jaza Khan! 👋  
-**Aspiring Software Engineer | Computer Science Student at UBC**
+**Software Developer | Building User-Centered Products**
 
 ---
 
 ### 🌱 About Me
 
-- I’m a Computer Science student at the University of British Columbia with interests in AI, software development, and building thoughtful, user-centered products. I enjoy working across the stack and exploring how data and design can come together to create meaningful experiences.
+- I’m a student at the University of British Columbia with interests in AI, software development, and building thoughtful, user-centered products. I enjoy working across the stack and exploring how data and design can come together to create meaningful experiences.
 
 ---
 
-
 ### 🛠 Featured Projects
 
-- **ReWear**: A sustainability-focused wardrobe assistant developed as part of GDSC to help users better understand, reuse, and make more informed, longer-lasting clothing choices. Currently owning end-to-end product development, including system design, user flows, and full-stack implementation using Next.js, TypeScript, Tailwind CSS, with supporting design work in Figma and Miro. *(In progress)*
+- **ReWear** *(In Progress)*: A sustainability-focused wardrobe assistant developed as part of GDSC to help users make more informed, longer-lasting clothing choices.  
+  - Leading end-to-end development, including system design, user flows, and architecture  
+  - Designing wireframes and interaction flows in Figma and Miro  
+  - Building full-stack features using Next.js, TypeScript, and Tailwind CSS  
 
-- **ARC'SHARE'YX**: A gear-sharing web app built at the youCode 24-hour hackathon to foster sustainability and community within the Arc'teryx outdoor network. Developed with React, Next.js, TypeScript, Tailwind CSS, and Firebase, featuring a custom credit system for lending and borrowing gear.
+- **ARC’SHARE’YX**: A gear-sharing web app built at a 24-hour hackathon to foster sustainability and community.  
+  - Built backend functionality for a credit-based lending system using Firebase  
+  - Implemented authentication, item requests, and data models  
+  - Served as backend lead and project manager for a 4-person team  
 
-- **Friend, Fan, or Foe - Instagram Edition**: A small, fun side project built in R (Shiny) to explore data science skills by analyzing Instagram follower and following data to identify mutuals and non-mutual relationships.
+- **Friend, Fan, or Foe – Instagram Edition**: A data analysis project built in R (Shiny) to analyze follower relationships and identify mutual and non-mutual connections.
 
-- **Landing Page Portfolio**: A personal website designed to showcase skills and projects, built using React, Tailwind CSS, and Framer Motion for a responsive, animated user experience.
+- **Landing Page Portfolio**: A personal website showcasing projects and skills.  
+  - Built using React, Tailwind CSS, and Framer Motion for a responsive, animated experience  
 
-- **WealthHealth**: A Java-based financial management app that helps users track income and expenses, with an emphasis on clean object-oriented design and data persistence.
+- **WealthHealth**: A Java-based financial management app for tracking income and expenses, with a focus on clean object-oriented design and data persistence.
 
-- **BookLog**: A Java application for tracking and saving reading history, featuring file persistence, modular structure, and a simple CLI interface for user interaction.
-
+- **BookLog**: A Java application for tracking reading history.  
+  - Features file persistence, modular structure, and a simple CLI interface  
+  - Includes JUnit testing for reliability  
 
 ---
 
 ### 🧩 Tech Skills
 
-- **Languages**: Python, JavaScript, HTML/CSS, Java, C++, SQL, R, Assembly *(in progress)*
-- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Shadcn, Prisma, Framer Motion, JUnit, FastAPI
-- **Databases**: PostgreSQL, MongoDB, Firebase
-- **Tools**: Git, GitHub, Vercel, Figma, VS Code
-  
+- **Languages**: Python, JavaScript, HTML/CSS, Java, C++, SQL, R, C#, Assembly *(in progress)*  
+- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Shadcn, Prisma, Framer Motion, JUnit, FastAPI  
+- **Databases**: PostgreSQL, MongoDB, Firebase  
+- **Cloud & Deployment**: Vercel, Supabase, Firebase  
+- **Tools**: Git, GitHub, Figma, Miro, VS Code  
+
 ---
 
 ### 🌐 Connect
 
 - [LinkedIn](https://linkedin.com/in/jazakhan)  
-- 📧 [jkhan12@student.ubc.ca](mailto:jkhan12@student.ubc.ca)
+- 📧 jazakhan294@gmail.com  
 
 ---
 
