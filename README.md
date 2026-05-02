@@ -28,24 +28,37 @@ Here are some ideas to get you started:
 
 ### 🛠 Featured Projects
 
-- **ReWear** *(In Progress)*: A sustainability-focused wardrobe assistant developed as part of GDSC to help users make more informed, longer-lasting clothing choices.  
-  - Leading end-to-end development, including system design, user flows, and architecture  
-  - Designing wireframes and interaction flows in Figma and Miro  
-  - Building full-stack features using Next.js, TypeScript, and Tailwind CSS  
+- ## 🛠 Featured Projects
 
-- **ARC’SHARE’YX**: A gear-sharing web app built at a 24-hour hackathon to foster sustainability and community.  
+- **UNUHR – Inclusive Hiring Platform** *(In Progress)*  
+  A mobile and web application designed to connect diverse job seekers with inclusive employers.  
+  - Leading frontend development and coordinating a 3-person team  
+  - Built core job seeker flow including profile management, job browsing, and application tracking  
+  - Developed data-driven UI components using React Native and Expo Router  
+  - Collaborating on backend integration, authentication, and real-time data handling  
+
+- **HabitTrack – Database Web Application**  
+  A full-stack application for tracking habits and analyzing user progress using relational data.  
+  - Designed and implemented complex SQL queries including joins, aggregations (GROUP BY, HAVING), and nested queries  
+  - Built backend APIs using Node.js and Express for structured data operations  
+  - Developed dynamic filtering and data retrieval logic for analytics and reporting features  
+  - Applied database design principles including normalization and relational modeling  
+
+- **ARC’SHARE’YX**  
+  A gear-sharing web app built at a 24-hour hackathon to foster sustainability and community.  
   - Built backend functionality for a credit-based lending system using Firebase  
   - Implemented authentication, item requests, and data models  
   - Served as backend lead and project manager for a 4-person team  
 
-- **Friend, Fan, or Foe – Instagram Edition**: A data analysis project built in R (Shiny) to analyze follower relationships and identify mutual and non-mutual connections.
+- **Friend, Fan, or Foe – Instagram Edition**  
+  A data analysis project built in R (Shiny) to analyze follower relationships and identify mutual and non-mutual connections.  
 
-- **Landing Page Portfolio**: A personal website showcasing projects and skills.  
+- **Landing Page Portfolio**  
+  A personal website showcasing projects and skills.  
   - Built using React, Tailwind CSS, and Framer Motion for a responsive, animated experience  
 
-- **WealthHealth**: A Java-based financial management app for tracking income and expenses, with a focus on clean object-oriented design and data persistence.
-
-- **BookLog**: A Java application for tracking reading history.  
+- **BookLog**  
+  A Java application for tracking reading history.  
   - Features file persistence, modular structure, and a simple CLI interface  
   - Includes JUnit testing for reliability  
 
