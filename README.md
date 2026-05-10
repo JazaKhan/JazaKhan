@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 
 - ## 🛠 Featured Projects
 
+- **UniStudy (UNI‑BUDDY) – AI‑Powered Study Mastery Platform** *(In Progress)*  
+  A full‑stack learning companion designed to help students track mastery, practice intentionally, and study smarter.  
+  - Built with Next.js, TypeScript, Tailwind, Supabase, Prisma, and the Claude API
+  - Designed a structured learning model: courses → topics → learning outcomes → questions
+  - Implemented study sessions with correctness + confidence tracking (GUESSED/UNSURE/CONFIDENT)
+  - Developed mastery scoring logic and personalized study recommendations
+  - Built dashboards, course pages, question management, and session flows
+  - Focused on clean UX, accessibility, and data‑driven insights for students
+
 - **UNUHR – Inclusive Hiring Platform** *(In Progress)*  
   A mobile and web application designed to connect diverse job seekers with inclusive employers.  
   - Leading frontend development and coordinating a 3-person team  
