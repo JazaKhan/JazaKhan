@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   - Built dashboards, course pages, question management, and session flows
   - Focused on clean UX, accessibility, and data‑driven insights for students
 
-- **UNUHR – Inclusive Hiring Platform** 
-  A mobile and web application designed to connect diverse job seekers with inclusive employers.  
+- **UNUHR – Inclusive Hiring Platform**   
+  A mobile and web application designed to connect diverse job seekers with inclusive employers. 
   - Leading frontend development and coordinating a 3-person team  
   - Built core job seeker flow including profile management, job browsing, and application tracking  
   - Developed data-driven UI components using React Native and Expo Router  
